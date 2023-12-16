@@ -1,0 +1,15 @@
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\bin\Debug\net6.0-windows\ExpressedEngine.exe
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\bin\Debug\net6.0-windows\ExpressedEngine.deps.json
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\bin\Debug\net6.0-windows\ExpressedEngine.runtimeconfig.json
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\bin\Debug\net6.0-windows\ExpressedEngine.dll
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\bin\Debug\net6.0-windows\ExpressedEngine.pdb
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.csproj.ResolveComReference.cache
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.AssemblyInfoInputs.cache
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.AssemblyInfo.cs
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.csproj.CoreCompileInputs.cache
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.dll
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\refint\ExpressedEngine.dll
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.pdb
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ExpressedEngine.genruntimeconfig.cache
+C:\Users\alegu\Code\2d-game-engine\ExpressedEngine\ExpressedEngine\obj\Debug\net6.0-windows\ref\ExpressedEngine.dll
